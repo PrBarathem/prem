@@ -1,0 +1,1 @@
+-> To store the 30 digit n umbers in cpp use " __int128 " as a data type
